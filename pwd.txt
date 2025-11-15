@@ -1,0 +1,11 @@
+For Admin Login -
+Email : `harshal@gmail.com`
+Password : `harshal@erp`
+
+For Student login -
+Email : `student@student.com`
+Password : `student@erp`
+
+For Staff login -
+Email : `staff@staff.com`
+Password : `staff@erp`
